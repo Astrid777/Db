@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HorseDb\HorseDb\bin\Debug\HorseDb.exe.config
+C:\Users\User\source\repos\HorseDb\HorseDb\bin\Debug\HorseDb.exe
+C:\Users\User\source\repos\HorseDb\HorseDb\bin\Debug\HorseDb.pdb
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\App.g.cs
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb_MarkupCompile.cache
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb_MarkupCompile.lref
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb.g.resources
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb.Properties.Resources.resources
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb.exe
+C:\Users\User\source\repos\HorseDb\HorseDb\obj\Debug\HorseDb.pdb
